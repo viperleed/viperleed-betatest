@@ -1,5 +1,5 @@
 # ViPErLEED-betatest
-The most recent executables for the ViPErLEED package.
+The most recent executables for the ViPErLEED package. The complete source code of the ViPErLEED package will be made available to the general public as soon as possible (i.e., after submission of relevant manuscripts).
 
 The contents of this repository are solely intended for internal use, and should not be distributed without explicit consent. Please contact riva@iap.tuwien.ac.at in advance if you wish to redistribute any of the content. We are happy to officially include new users as beta testers.
 
