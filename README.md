@@ -1,7 +1,7 @@
 # ViPErLEED-betatest
 The most recent executables for the ViPErLEED package.
 
-The repository is organized in folders, one per version. Each folder includes a Change Log with the most recent changes, and contains:
+You find the most recent release in the "Releases" section on the right. Each release is accompanied by a Change Log with the most recent changes, and contains:
 - viperleed-gui: archive containing the graphical user interface (Windows >= 7, UNIX) and some example input files.
 - tleedm: for LEED-IV calculations. This is usually only packed for UNIX.
 - bookkeper: for keeping track of your calculations. This is usually only packed for UNIX.
