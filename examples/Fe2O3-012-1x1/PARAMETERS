@@ -1,0 +1,8 @@
+RUN = 1-3
+LOG_DEBUG = True
+N_CORES = 6
+
+N_BULK_LAYERS = 1
+
+SITE_DEF O = surf top(2)
+SITE_DEF Fe = surf top(2)
