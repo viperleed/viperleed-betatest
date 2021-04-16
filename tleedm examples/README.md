@@ -13,3 +13,12 @@ You find below a list of refence timings and expected results for the examples g
     * Search [Segment: 3] (3 cumulated runs): 8:10 h
     * Total execution time (`RUN = 1-3`) [Segments: 0 1 11 2 3 31 12 2 3 31 12 2 3 31 12]: 10:25 h
     * R-factors: refcalc = 0.3889; superpos = 0.3725
+    * Note: slightly worse R-factors due to an input problem (was meant for v0.3.0, used with v0.2.1 -> wrong bulk repeat)
+* ViPErLEED: [v0.4.0](https://github.com/viperleed/viperleed-betatest/releases/tag/v0.4.0);
+  Machine: openSUSE Leap 15.2; 16 CPUs (2.1 GHz Intel Xeon E5-2620 v4), 125 GB RAM; ifort/mpifort compiler
+    * First initialization [Segment: 0]: ~1 s
+    * Reference [Segment: 1]: 13 m
+    * Delta [Segment: 2] (3 cumulated runs): 9 m
+    * Search [Segment: 3] (3 cumulated runs): 1:44 h
+    * Total execution time (`RUN = 1-3`) [Segments: 0 1 11 2 3 31 12 2 3 31 12 2 3 31 12]: 2:12 h
+    * R-factors: refcalc = 0.3856; superpos = 0.3691
