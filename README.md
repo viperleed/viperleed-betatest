@@ -1,7 +1,6 @@
 # ViPErLEED-betatest
-The most recent executables for the ViPErLEED package. The complete source code of the ViPErLEED package will be made available to the general public as soon as possible (i.e., after submission of relevant manuscripts).
 
-The contents of this repository are solely intended for internal use, and should not be distributed without explicit consent. Please contact riva@iap.tuwien.ac.at in advance if you wish to redistribute any of the content. We are happy to officially include new users as beta testers.
+**This repository is kept for archival purposes only and is not actively maintained any longer. See the main [viperleed repository](https://github.com/viperleed/viperleed) for the up-to-date releases.**
 
 You find the most recent release in the [Releases](https://github.com/viperleed/viperleed-betatest/releases) section on the right. Each release is accompanied by a Change Log with the most recent changes, and contains:
 - **doc**: archive with the most recent documentation. Accessed by opening the `./doc/index` file in a web browser. Note: Files are displayed correctly under Linux. Using Firefox is strongly suggested for opening the documentation on Windows.
